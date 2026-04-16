@@ -15,4 +15,4 @@
 
 🌱 Currently learning: **React, Cloud, DevOps**
 
-📫 Reach me: **[anish@email.com](mailto:anish@email.com)**
+📫 Reach me: **[itsmeanishkashyap007@gmail.com](mailto:itsmeanishkashyap007@gmail.com)**
